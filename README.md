@@ -1,5 +1,5 @@
-# 😎 one day one Algorithm study
-혼자는 하기 힘든 1일 1알고리즘 문제풀이와 함께 1커밋까지 해보아요!
+# 👨‍💻 one day one Algorithm study
+혼자는 하기 힘들었던 1일 1알고리즘 문제풀이, 1커밋을 함께 해보아요!
 
 ## 팀원
 <table>
@@ -37,8 +37,7 @@
 ## ✅ PR 규칙
 
 fork한 repository는 commit이 아닌 PR을 해야 잔디가 심어집니다.
-
-매일 / 매주 중 골라서 자유롭게 PR 해주시면 됩니다. 
+매일 / 매주 중 골라서 자유롭게 PR 해주시면 됩니다.
 
 - **PR 제목**
     - 매일 : 이름 / 날짜 / 문제 번호 `ex) Kwak Jiwoo /  9.28 / 238`
